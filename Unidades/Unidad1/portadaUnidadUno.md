@@ -20,5 +20,5 @@ Este es un listado correspondiente todos los contenidos Vistos de la unidad 1:
 ### 📂 Actividades Entregadas durante la Unidad
 - [APE - Resolucion de Ejercicios]()
 - [ACD1 - Logica Propocicional, Conectores y tablas de Verdad](Documentos/Fundamentos-de-la-Logica-Proposicional_compressed.pdf)
-- [ACD2 - Implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia)]()
+- [ACD2 - Implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia)](Documentos/Logica-Proposicional-en-Matematicas-Discretas.pdf)
 - [AA - Lectura y Ejercico¿ios]()
