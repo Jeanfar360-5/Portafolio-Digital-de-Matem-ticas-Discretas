@@ -20,7 +20,7 @@
 
 ### 🧩 Unidad 1 — Lógica Matematica
 
-[Visualizar la unidad 1 ](unidad1/unidadUno.md) 
+[Visualizar la unidad 1 ](Unidades/Unidad1/portadaUnidadUno.md) 
 
 ### ⚙️ Unidad 2 — Algebra de Bolee 
 
