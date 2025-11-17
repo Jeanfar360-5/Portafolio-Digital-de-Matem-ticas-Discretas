@@ -14,6 +14,8 @@
 ### 👨‍🏫 Docente: Cueva Hurtado Mario Enrique
 ### 👨‍🎓 Estudiante: Jeancarlos Fernando Aguirre Romero 
 
+![Foto Digital carnet Universidad  ,](https://github.com/user-attachments/assets/57d36b6f-1b6f-430a-9791-8364af482f66)
+
 ---
 
 ## 📚 Portafolio Digital de Aprendizaje – Matematicas Discretas
