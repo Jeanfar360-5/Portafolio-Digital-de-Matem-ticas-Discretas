@@ -23,8 +23,6 @@ Organizar y documentar los contenidos, actividades y resultados de aprendizaje r
 | ⚙️ **Unidad 2** | Contenidos y actividades de la unidad 2 |
 | 🧠 **Unidad 3** | Contenidos y actividades de la unidad 3 |
 | 🏁 **Conclusiones generales** | Análisis crítico del proceso de aprendizaje |
-| 📖 **Bibliografías** | Fuentes de consulta en formato IEEE |
-
 
 ---
 
