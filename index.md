@@ -28,5 +28,3 @@
 
 ### 🏁 Conclusiones genarles  
 
-### 📖 Bibliografías  
-[Bibliografias](unidad1/Bibliografias.md)
